@@ -1,0 +1,1 @@
+This directory contains all of Mr. Hassn's 2023-2024 computer architecture assignments.
