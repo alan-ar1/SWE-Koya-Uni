@@ -1,1 +1,2 @@
 Write a program with three classes which one of them is the Main class that contains the main method. Each class has a method, access those methods in the main method using objects.
+
