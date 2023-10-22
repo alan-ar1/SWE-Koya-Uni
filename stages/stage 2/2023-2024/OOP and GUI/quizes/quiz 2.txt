@@ -1,1 +1,1 @@
-Write a program that contains all the types of constructors and explain the constructors part.
+Write a program in java that contains all the types of constructors.
