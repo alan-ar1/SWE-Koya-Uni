@@ -1,0 +1,1 @@
+Write 3 main points about abstract class in java.
