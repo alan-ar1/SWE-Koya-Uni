@@ -1,0 +1,2 @@
+Not counted (very dificult)
+Make an 8-bits binary comaprator logic design.
