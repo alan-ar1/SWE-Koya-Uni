@@ -1,0 +1,35 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/.Xilinx/arthmetic_8_bit_structure/arthmetic_8_bit_structure_tb_isim_beh.exe -prj C:/.Xilinx/arthmetic_8_bit_structure/arthmetic_8_bit_structure_tb_beh.prj work.arthmetic_8_bit_structure_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/.Xilinx/arthmetic_8_bit_structure/xor_gate.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/arthmetic_8_bit_structure/or_gate_four_one.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/arthmetic_8_bit_structure/or_gate.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/arthmetic_8_bit_structure/and_gate_three_one.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/arthmetic_8_bit_structure/and_gate.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/arthmetic_8_bit_structure/mux.vhd" into library work
+WARNING:HDLCompiler:946 - "C:/.Xilinx/arthmetic_8_bit_structure/mux.vhd" Line 56: Actual for formal port s1 is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/.Xilinx/arthmetic_8_bit_structure/mux.vhd" Line 57: Actual for formal port a is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:/.Xilinx/arthmetic_8_bit_structure/mux.vhd" Line 58: Actual for formal port s1 is neither a static name nor a globally static expression
+Parsing VHDL file "C:/.Xilinx/arthmetic_8_bit_structure/full_adder.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/arthmetic_8_bit_structure/arthmetic_8_bit_structure.vhd" into library work
+Parsing VHDL file "C:/.Xilinx/arthmetic_8_bit_structure/arthmetic_8_bit_structure_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity and_gate_three_one [and_gate_three_one_default]
+Compiling architecture behavioral of entity or_gate_four_one [or_gate_four_one_default]
+Compiling architecture behavioral of entity mux [mux_default]
+Compiling architecture behavioral of entity xor_gate [xor_gate_default]
+Compiling architecture behavioral of entity and_gate [and_gate_default]
+Compiling architecture behavioral of entity or_gate [or_gate_default]
+Compiling architecture behavioral of entity full_adder [full_adder_default]
+Compiling architecture behavioral of entity arthmetic_8_bit_structure [arthmetic_8_bit_structure_defaul...]
+Compiling architecture behavior of entity arthmetic_8_bit_structure_tb
+Time Resolution for simulation is 1ps.
+Compiled 19 VHDL Units
+Built simulation executable C:/.Xilinx/arthmetic_8_bit_structure/arthmetic_8_bit_structure_tb_isim_beh.exe
+Fuse Memory Usage: 28692 KB
+Fuse CPU Usage: 592 ms

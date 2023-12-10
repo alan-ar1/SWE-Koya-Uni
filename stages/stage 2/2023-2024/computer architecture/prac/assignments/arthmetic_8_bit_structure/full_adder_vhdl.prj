@@ -1,0 +1,4 @@
+vhdl work "C:\.Xilinx\arthmetic_8_bit_structure\xor_gate.vhd"
+vhdl work "C:\.Xilinx\arthmetic_8_bit_structure\or_gate.vhd"
+vhdl work "C:\.Xilinx\arthmetic_8_bit_structure\and_gate.vhd"
+vhdl work "C:\.Xilinx\arthmetic_8_bit_structure\full_adder.vhd"

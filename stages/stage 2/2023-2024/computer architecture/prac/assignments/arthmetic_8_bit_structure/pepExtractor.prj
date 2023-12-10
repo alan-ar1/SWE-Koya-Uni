@@ -1,0 +1,8 @@
+work	"and_gate.vhd"
+work	"and_gate_three_one.vhd"
+work	"arthmetic_8_bit_structure.vhd"
+work	"full_adder.vhd"
+work	"mux.vhd"
+work	"or_gate.vhd"
+work	"or_gate_four_one.vhd"
+work	"xor_gate.vhd"
