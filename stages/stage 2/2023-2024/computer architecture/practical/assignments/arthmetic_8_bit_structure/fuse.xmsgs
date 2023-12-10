@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/.Xilinx/arthmetic_8_bit_structure/mux.vhd" Line 28: Actual for formal port <arg fmt="%s" index="1">s1</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/.Xilinx/arthmetic_8_bit_structure/mux.vhd" Line 29: Actual for formal port <arg fmt="%s" index="1">a</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"C:/.Xilinx/arthmetic_8_bit_structure/mux.vhd" Line 30: Actual for formal port <arg fmt="%s" index="1">s1</arg> is neither a static name nor a globally static expression
+</msg>
+
+</messages>
+

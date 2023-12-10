@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">a3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">mux1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">a3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">mux2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">a3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">mux3</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">a3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">mux4</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">a3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">mux5</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">a3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">mux6</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">a3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">mux7</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">a3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">mux8</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+</messages>
+

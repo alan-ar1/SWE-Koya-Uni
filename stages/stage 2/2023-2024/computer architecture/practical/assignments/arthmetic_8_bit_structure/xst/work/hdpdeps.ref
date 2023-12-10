@@ -1,0 +1,50 @@
+V3 31
+FL C:/.Xilinx/arthmetic_8_bit_structure/and_gate.vhd 2023/12/10.19:18:49 P.20131013
+EN work/and_gate 1702225169 FL C:/.Xilinx/arthmetic_8_bit_structure/and_gate.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/and_gate/Behavioral 1702225170 \
+      FL C:/.Xilinx/arthmetic_8_bit_structure/and_gate.vhd EN work/and_gate 1702225169
+FL C:/.Xilinx/arthmetic_8_bit_structure/and_gate_three_one.vhd 2023/12/10.19:17:39 P.20131013
+EN work/and_gate_three_one 1702225173 \
+      FL C:/.Xilinx/arthmetic_8_bit_structure/and_gate_three_one.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/and_gate_three_one/Behavioral 1702225174 \
+      FL C:/.Xilinx/arthmetic_8_bit_structure/and_gate_three_one.vhd \
+      EN work/and_gate_three_one 1702225173
+FL C:/.Xilinx/arthmetic_8_bit_structure/arthmetic_8_bit_structure.vhd 2023/12/10.19:17:46 P.20131013
+EN work/arthmetic_8_bit_structure 1702225181 \
+      FL C:/.Xilinx/arthmetic_8_bit_structure/arthmetic_8_bit_structure.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/arthmetic_8_bit_structure/Behavioral 1702225182 \
+      FL C:/.Xilinx/arthmetic_8_bit_structure/arthmetic_8_bit_structure.vhd \
+      EN work/arthmetic_8_bit_structure 1702225181 CP mux CP full_adder
+FL C:/.Xilinx/arthmetic_8_bit_structure/full_adder.vhd 2023/12/10.19:19:22 P.20131013
+EN work/full_adder 1702225179 \
+      FL C:/.Xilinx/arthmetic_8_bit_structure/full_adder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/full_adder/Behavioral 1702225180 \
+      FL C:/.Xilinx/arthmetic_8_bit_structure/full_adder.vhd EN work/full_adder 1702225179 \
+      CP xor_gate CP and_gate CP or_gate
+FL C:/.Xilinx/arthmetic_8_bit_structure/mux.vhd 2023/12/10.19:17:43 P.20131013
+EN work/mux 1702225177 FL C:/.Xilinx/arthmetic_8_bit_structure/mux.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux/Behavioral 1702225178 \
+      FL C:/.Xilinx/arthmetic_8_bit_structure/mux.vhd EN work/mux 1702225177 \
+      CP and_gate_three_one CP or_gate_four_one
+FL C:/.Xilinx/arthmetic_8_bit_structure/or_gate.vhd 2023/12/10.19:19:10 P.20131013
+EN work/or_gate 1702225171 FL C:/.Xilinx/arthmetic_8_bit_structure/or_gate.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/or_gate/Behavioral 1702225172 \
+      FL C:/.Xilinx/arthmetic_8_bit_structure/or_gate.vhd EN work/or_gate 1702225171
+FL C:/.Xilinx/arthmetic_8_bit_structure/or_gate_four_one.vhd 2023/12/10.19:18:08 P.20131013
+EN work/or_gate_four_one 1702225175 \
+      FL C:/.Xilinx/arthmetic_8_bit_structure/or_gate_four_one.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/or_gate_four_one/Behavioral 1702225176 \
+      FL C:/.Xilinx/arthmetic_8_bit_structure/or_gate_four_one.vhd \
+      EN work/or_gate_four_one 1702225175
+FL C:/.Xilinx/arthmetic_8_bit_structure/xor_gate.vhd 2023/12/10.19:19:22 P.20131013
+EN work/xor_gate 1702225167 FL C:/.Xilinx/arthmetic_8_bit_structure/xor_gate.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/xor_gate/Behavioral 1702225168 \
+      FL C:/.Xilinx/arthmetic_8_bit_structure/xor_gate.vhd EN work/xor_gate 1702225167

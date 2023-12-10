@@ -1,0 +1,16 @@
+AR mux behavioral C:/.Xilinx/arthmetic_8_bit_structure/mux.vhd sub00/vhpl03 1702225178
+EN and_gate_three_one NULL C:/.Xilinx/arthmetic_8_bit_structure/and_gate_three_one.vhd sub00/vhpl08 1702225173
+AR xor_gate behavioral C:/.Xilinx/arthmetic_8_bit_structure/xor_gate.vhd sub00/vhpl11 1702225168
+EN or_gate_four_one NULL C:/.Xilinx/arthmetic_8_bit_structure/or_gate_four_one.vhd sub00/vhpl06 1702225175
+AR and_gate_three_one behavioral C:/.Xilinx/arthmetic_8_bit_structure/and_gate_three_one.vhd sub00/vhpl09 1702225174
+AR and_gate behavioral C:/.Xilinx/arthmetic_8_bit_structure/and_gate.vhd sub00/vhpl13 1702225170
+AR or_gate behavioral C:/.Xilinx/arthmetic_8_bit_structure/or_gate.vhd sub00/vhpl15 1702225172
+AR arthmetic_8_bit_structure behavioral C:/.Xilinx/arthmetic_8_bit_structure/arthmetic_8_bit_structure.vhd sub00/vhpl01 1702225182
+EN full_adder NULL C:/.Xilinx/arthmetic_8_bit_structure/full_adder.vhd sub00/vhpl04 1702225179
+EN or_gate NULL C:/.Xilinx/arthmetic_8_bit_structure/or_gate.vhd sub00/vhpl14 1702225171
+EN arthmetic_8_bit_structure NULL C:/.Xilinx/arthmetic_8_bit_structure/arthmetic_8_bit_structure.vhd sub00/vhpl00 1702225181
+EN mux NULL C:/.Xilinx/arthmetic_8_bit_structure/mux.vhd sub00/vhpl02 1702225177
+AR full_adder behavioral C:/.Xilinx/arthmetic_8_bit_structure/full_adder.vhd sub00/vhpl05 1702225180
+EN xor_gate NULL C:/.Xilinx/arthmetic_8_bit_structure/xor_gate.vhd sub00/vhpl10 1702225167
+AR or_gate_four_one behavioral C:/.Xilinx/arthmetic_8_bit_structure/or_gate_four_one.vhd sub00/vhpl07 1702225176
+EN and_gate NULL C:/.Xilinx/arthmetic_8_bit_structure/and_gate.vhd sub00/vhpl12 1702225169
