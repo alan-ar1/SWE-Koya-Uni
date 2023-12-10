@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/.Xilinx/arthmetic_8_bit_structure/arthmetic_8_bit_structure_tb_isim_beh.exe" -prj "C:/.Xilinx/arthmetic_8_bit_structure/arthmetic_8_bit_structure_tb_beh.prj" "work.arthmetic_8_bit_structure_tb" 

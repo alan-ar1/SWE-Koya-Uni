@@ -1,5 +1,0 @@
-set -tmpdir "C:/.Xilinx/arthmetic_8_bit_structure/xst/projnav.tmp"
-set -xsthdpdir "C:/.Xilinx/arthmetic_8_bit_structure/xst"
-elaborate
--ifn xor_gate.prj
--ifmt mixed
